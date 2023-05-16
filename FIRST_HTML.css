@@ -1,0 +1,108 @@
+body {
+	background-image: url("dirt.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+	}
+
+img.circular--square { 
+	border-radius: 50%; 
+	margin-left: 100px;
+	vertical-align: middle;
+	width:  5%;
+	height: 5%;
+	border: 2px solid LawnGreen;
+	}
+
+img.normal {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:  300px;
+	height: 300px;
+	border: 5px solid LawnGreen;
+	
+	}	
+	
+img.logo {
+	border-radius: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:  10%;
+	height: 10%;
+	border: 2px solid LawnGreen;
+	
+	}
+	
+img.logo2 {
+	border-radius: 25px;
+	vertical-align: middle;
+	width:  5%;
+	height: 5%;
+	border: 2px solid LawnGreen;
+	
+	}
+	
+p.l-style{
+	font-size: 30px;
+	color: LawnGreen;
+	}	
+	
+p.style1 {
+	text-align: center;
+	font-size: 50px;
+	color: LawnGreen;
+	}
+	
+p.h {
+	text-align: center;
+	font-size: 70px;
+	color: LawnGreen;
+	}
+	
+p.description {
+	text-align: center;
+	font-size: 25px;
+	color: LawnGreen;
+	padding: 5px 5px;
+	margin: 50px;
+	border: 3px solid LawnGreen;
+	border-radius: 25px;
+	}
+	
+h1	{
+	text-align: center;
+	font-size: 100px;
+	color: LawnGreen;
+	}	
+
+h3	{
+	margin-left: 100px;
+	font-size: 50px;
+	color: LawnGreen;
+	}	
+	
+
+
+	
+ol	{
+	list-style-type: none;
+	font-size: 20px;
+	color: LawnGreen;
+	text-align: center;
+	
+	}
+
+ol li{
+	display: inline-block;
+	padding: 5px 5px;
+	margin: 50px;
+	border: 3px solid LawnGreen;
+	}
+	
+a	{
+	color: LawnGreen;
+	}
+	
+	
